@@ -2,6 +2,16 @@
 #include <stdlib.h>
 #include <time.h>
 
+void media()
+{
+    int a;
+    
+    printf("media");
+    
+    a++;
+}
+
+
 int main()
 
 {
