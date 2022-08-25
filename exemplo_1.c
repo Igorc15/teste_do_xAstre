@@ -2,6 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 
+
+
+void mediana()
+{
+    int mediana = 10;
+    printf("%d",mediana)
+  }
+
+
 void media()
 {
     int a;
@@ -10,6 +19,7 @@ void media()
     
     a++;
 }
+
 
 
 int main()
